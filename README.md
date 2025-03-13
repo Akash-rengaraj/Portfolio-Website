@@ -1,4 +1,6 @@
 # My Portfolio Website
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/your-repo)
+![GitHub license](https://img.shields.io/github/license/yourusername/your-repo)
 
 A slick personal portfolio website to show off my skills and projects.
 
