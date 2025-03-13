@@ -4,6 +4,8 @@
 
 A slick personal portfolio website to show off my skills and projects.
 
+![Alt Text](https://github.com/Akash-rengaraj/Images/blob/main/Screenshot%202025-03-11%20202253.png)
+
 ## Features
 - Fully responsive design
 - Project showcase
