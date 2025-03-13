@@ -4,7 +4,7 @@
 
 A slick personal portfolio website to show off my skills and projects.
 
-![Alt Text](https://github.com/Akash-rengaraj/Images/blob/main/Screenshot%202025-03-13%20185333.png)
+[![Alt Text](https://github.com/Akash-rengaraj/Images/blob/main/Screen%20Recording%202025-03-13%20190749.mp4)](https://github.com/Akash-rengaraj/Images/blob/main/Screen%20Recording%202025-03-13%20190749.mp4)
 
 ## Features
 - Fully responsive design
@@ -21,3 +21,6 @@ A slick personal portfolio website to show off my skills and projects.
 1. Clone the repo:
    ```sh
    git clone https://github.com/yourusername/your-repo.git
+
+## Preview Images
+![Alt Text](https://github.com/Akash-rengaraj/Images/blob/main/Screenshot%202025-03-13%20185333.png)
